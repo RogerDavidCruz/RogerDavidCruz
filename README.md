@@ -5,6 +5,6 @@ A full-stack software engineer with experience coding in JavaScript, React JS, N
 - 🔭 I’m currently working as a freelance web developer.
 - 🌱 I’m currently learning more about Redux and AWS.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: roger.david.cruz@gmail.com or [LinkedIn](https://www.linkedin.com/in/roger-david-cruz/ "Roger's LinkedIn")
+- 📫 How to reach me: roger.david.cruz@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I've been to the Amazon rainforest and cycled between a couple USA states.
+- ⚡ Fun fact: I've been to the Amazon rainforest in Ecuador and cycled between USA states.
