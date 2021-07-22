@@ -1,4 +1,4 @@
-### Hi! I'm [Roger](https://www.rogerdcruz.com/ "Roger's Portfolio") 👋
+### Hi! I'm Roger 👋
 
 A full-stack software engineer with experience coding in JavaScript, React JS, Node JS, SQL, Python, and PHP.
 
