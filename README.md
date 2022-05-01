@@ -5,5 +5,5 @@ A full-stack software engineer with experience coding with Python, JavaScript, N
 - 🔭 I’m currently interviewing and coding client projects.
 - 🌱 I’m currently learning more about cloud architecture and microservices.
 - 👯 I’m looking to collaborate in large enterprise companies.
-- 📫 How to reach me: roger.david.cruz@gmail.com
+- 📫 How to reach me: roger.cruz.dev@gmail.com
 - ⚡ Fun fact: I've been to the Amazon rainforest in Ecuador and cycled between states.
